@@ -1,1 +1,4 @@
 [![0bh6's Discord status](https://dsc-readme.tsuni.dev/api/user/302534543125118987?banner=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1523134081041305644%2F1542312192815136788%2Fimage.png%3Fex%3D6a90c5a9%26is%3D6a8f7429%26hm%3Da76c0e803e01b878042ad5c747f1d3d1d42517a2e52054c48683a861b3b86c92%26&theme=gruvbox&width=2048&font=vampyre&effect=neon)](https://discord.com/users/302534543125118987)
+
+
+[![0bh6's Discord status](https://dsc-readme.tsuni.dev/api/user/302534543125118987?theme=gruvbox&width=1224&font=vampyre&effect=neon)](https://discord.com/users/302534543125118987)
