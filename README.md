@@ -1,1 +1,1 @@
-[![hexaims's Discord status](https://dsc-readme.tsuni.dev/api/user/302534543125118987?theme=nord&width=1360&font=vampyre&effect=gradient&nameColor1=D8FDBB&nameColor2=74FF09)](https://discord.com/users/302534543125118987)
+[![hexaims's Discord status](https://dsc-readme.tsuni.dev/api/user/302534543125118987?theme=githubDark&width=1040)](https://discord.com/users/302534543125118987)
